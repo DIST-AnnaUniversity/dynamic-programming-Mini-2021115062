@@ -1,5 +1,4 @@
-# Dynamic Programming Python implementation of Matrix
-# Chain Multiplication. 
+# Dynamic Programming Python implementation of Matrix Chain Multiplication
 import sys
 
 # Matrix Ai has dimension p[i-1] x p[i] for i = 1..n
